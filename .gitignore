@@ -1,0 +1,51 @@
+# Unity-generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vs/
+.gradle/
+*.DotSettings.user
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
+*.log
+sysinfo.txt
+mono_crash.*
+
+# Generated Rider integration and Unity caches
+/Assets/Plugins/Editor/JetBrains*
+/Assets/Addressables_Temp/
+/Assets/StreamingAssets/aa*
+/Assets/VisualScripting.Generated/
+/Assets/Unity.VisualScripting.Generated/
+/Assets/SceneDependencyCache*
+/UIElementsSchema/
+
+# Generated builds and database metadata
+*.apk
+*.aab
+*.app
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
